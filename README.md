@@ -17,7 +17,7 @@ Package Control allows different programming languages to be recognized by Subli
 
 After opening Sublime Text 3 by using the `subl` in a terminal, open the Sublime Text Console by pressing `Ctrl + ~` or the `View>Show Console` menu.
 
-Goto the Package Control webpage `https://packagecontrol.io/installation`and copy the import script under Sublime Text 3 for Package Control installation in to the console of Sublime Text and hit `Enter`.
+Goto the Package Control webpage https://packagecontrol.io/installation and copy the import script under Sublime Text 3 for Package Control installation in to the console of Sublime Text and hit `Enter`.
 
 #Example Plugin Installation:
 
