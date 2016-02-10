@@ -33,8 +33,9 @@ Choose `Install Packages`.
 Search for `TypeScript`.
 Install by selecting TypeScript.
 
-##Finding other packages for new langauges
+##Finding other packages for new languages
 
 Find other language packages to install at https://packagecontrol.io/.
 
+##Finding other packages for new languages
 Read this  https://mattbrictson.com/sublime-text-3-recommendations#packages for packages with extra functionallity for Ruby on Rails.
