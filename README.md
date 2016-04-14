@@ -1,5 +1,5 @@
 # Sublime Installation and Plugins
-How to install sublime text 3 in Ubuntu and manage plugins for different programming languages.
+How to install sublime text 3 in Ubuntu and various plugins.
 
 ##Using the Package Manager (apt-get) to install Sublime Text 3
 
@@ -23,20 +23,32 @@ Note after a plugin is installed sublime may have to be restarted or a file relo
 
 ##1. RailsBase16 Color Scheme for Sublime Text
 
-Press `Ctrl+shift+p`, select `Install Package` and search for `RailsBase16 Color Schemes` once found select and press `enter`.
+Press `Ctrl+shift+p`
+
+Choose `Install Packages`.
+
+Search for `RailsBase16 Color Schemes`.
+
+Install by selecting `RailsBase16`.
 
 ##2. Typescript for AngularJS2 Projects
 
 `Ctrl+shift+p`
+
 Choose `Install Packages`.
+
 Search for `TypeScript`.
+
 Install by selecting TypeScript.
 
 ##3. Git Plugin
 
 `Ctrl+shift+p`
+
 Choose `Install Packages`.
+
 Search for `SublimeGit` and `GitGutter`.
+
 Install by selecting SublimeGit and GitGutter.
 
 SublimeGit Usage:
